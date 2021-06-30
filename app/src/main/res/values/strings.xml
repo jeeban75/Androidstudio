@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="submit">Submit</string>
+    <string name="enter_password">Enter password</string>
+    <string name="password">Password</string>
+    <string name="enter_username">Enter username</string>
+    <string name="username">Username</string>
+    <string name="login_page">Login page</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="Email">Email</string>
+    <string name="Code">Code</string>
+    <string name="Mobile_No">Mobile No</string>
+    <string name="Password">Password</string>
+    <string name="Sign_up">Sign Up</string>
+    <string name="Reset">Reset</string>
+    <string name="Login">Login</string>
+    <string name="Gender">Gender</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Others">Others</string>
+    <string name="I_am_not_a_robot">I am not a robot</string>
+    <string name="Welcome_To_My_App">Welcome to My Application</string>
+    <string name="welcome_to_my_App">Welcome To My App</string>
+    <string name="country">Country</string>
+    <string name="list_view">List View</string>
+    <string name="hero_name">Hero Name</string>
+    <string name="hero_team">Hero Team</string>
+    <string name="log_in_page">Log In Page</string>
+    <string name="update">Update</string>
+
+</resources>
